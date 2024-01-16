@@ -1,3 +1,5 @@
+**THIS IS A REUPLOAD OF KANAGAWA-TMUX FROM eliobtl1 ON GITLAB SINCE THE ORIGINAL REPO WAS DELETED **
+---
 # Kanagawa for tmux
   This is a fork of [dreamsofcode-io/catppuccin-tmux](https://github.com/dreamsofcode-io/catppuccin-tmux), but using the [kanagawa](https://github.com/rebelot/kanagawa.nvim) colorscheme.
 
